@@ -1,6 +1,6 @@
 # Database Implementations and Management – Case Study
 
-**Course:** DBAS17370 – Database Implementations and Management  
+**Course:** Database Implementations and Management  
 **Contributors:** Kai-Ann Parsons, Hanna Mathew, Riaa Sehgal
 **Date:** 26th March 2025  
 
